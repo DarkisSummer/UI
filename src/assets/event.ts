@@ -29,7 +29,8 @@ export const events: MyEvent[] = [
         imgSrc: img1,
         city: 'Moscow',
         place: 'Chechovskaya, 13',
-        people: []
+        people: ['Ivan - small person in a big IT world', 
+            'Artyom I - BIG brainer']
     },
     {
         id: '2',

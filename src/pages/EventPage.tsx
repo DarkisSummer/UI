@@ -53,15 +53,17 @@ const StyledEventPage = styled.div`
 const StyledUserList = styled.div`
   display: flex;
   flex-direction: column;
-  margin-top: 40px;
+  margin-top: 48px;
   text-align: left;
   max-width: 1280px;
+  /* background-color: var(--event-card-background); */
 
   .ppl_list {
     display: flex;
     flex-direction: column;
     font-size: 20px;
     white-space: pre;
+    gap: 8px
   }
 `
 
